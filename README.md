@@ -1,10 +1,8 @@
-I am an MSBA student at the University of Southern California who will graduate in December 2022. I received my undergraduate degree in Digital Marketing & International Business from the University of Georgia in 2019 and then worked for two years as an Analyst for a data transformation company in Atlanta, GA. 
+Hello! I am a Data Scientist at Roark Capital. I graduated in 2022 with a Master of Science in Business Analytics from the University of Southern California. I received my undergraduate degree in Digital Marketing & International Business from the University of Georgia in 2019, and then I worked for two years as an Analyst for a data transformation company in Atlanta, GA. 
 
-Data analytics is a passion of mine, both professionally and as an avid sports fan. My goal is to add value to organizations by delivering actionable insights that cannot be found without in-depth analyses.
+Data analytics and data science are passions of mine, both professionally and as an avid sports fan. My goal is to add value to organizations by delivering actionable insights that cannot be found without in-depth analyses.
 
-I gained experience in data analytics through my work as a digital marketing analyst and am actively bolstering my programming skills in areas such as Python and SQL. I will expand my statistics and machine learning capabilities through my coursework at USC. My current proficiencies include SQL, Python, Google Analytics, Adobe Analytics, Data Studio, Google Ads, Bing Ads, Facebook Ads Manager, The Trade Desk, MS Office, and G Suite.
-
-Coursework in: PostgreSQL, NoSQL, statistics (causal inference, regression modeling, regression analysis, sampling, time series, forecasting, linear regression, logistic regression, confidence intervals, hypothesis testing, ANOVA, JMP), Python (Pandas, NumPy, Matplotlib, Pyplot, Plotly, Dash, Jupyter), A/B testing, Gurobi, and more.
+Experience with: Python (pandas, NumPy, scikit-learn, statsmodels, Jupyter, Matplotlib, seaborn, ggplot), GCP (Google Cloud Platform), Generative AI & LLMs, statistics (predictive modeling, A/B testing, hypothesis testing, significance testing, linear regression, logistic regression, classification, clustering, ANOVA), SQL (BigQuery, PostgreSQL), machine learning (ML), time series (ARIMA, exponential smoothing, PyCaret, linear regression), NLP,  JMP, Tableau, Microsoft Excel, GitHub, Google Analytics, Adobe Analytics, Google Workspace, Databricks, and more.
 
 Contact me: mike.a.levitas@gmail.com
 
